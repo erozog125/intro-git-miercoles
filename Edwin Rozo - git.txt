@@ -1,5 +1,8 @@
 Nombre: Edwin Rozo
 Edad: 38
-=======
 Hobbies:
 * Fútbol
+* Leer
+* Cantar
+
+
