@@ -1,0 +1,3 @@
+Nombre: Edwin Rozo
+Edad: 38
+Ciudad Nacimiento: Bogotá
